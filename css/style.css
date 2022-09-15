@@ -1,0 +1,177 @@
+.container {
+	width: 1172px;
+	margin: 0 auto;
+}
+.first-screen {
+	padding-top: 70px;
+	background: linear-gradient(105.89deg, rgba(0, 0, 0, 0.37) 5.05%, rgba(0, 0, 0, 0.15) 112.97%),  url(/img/header-bg.jpg) no-repeat;
+	background-size: cover;
+	min-height: 900px;
+	min-width: 1600px;
+	margin-bottom: 113px ;
+}
+
+.nav {
+	display: flex;
+	align-items: center;
+	margin-bottom: 216px;
+}
+
+.menu {
+	margin-left: 69px;
+	width: 305px;
+	display: flex;
+	justify-content: space-around;
+}
+
+li {
+		list-style: none;
+}
+
+.element {
+	text-decoration: none;
+	font-family: 'Anton';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 21px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.phone {
+	flex-grow: 3;
+	text-align: right;
+	text-decoration: none;
+	font-family: 'Anton';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 26px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.offer {
+	width: 511px;
+}
+
+.subheader {
+	margin-bottom: 0;
+	font-family: 'Anton';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 45px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.header {
+	margin-top: 0;
+	margin-bottom: 19px;
+	font-family: 'Anton';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 100px;
+	line-height: 151px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.button {
+	width: 238px;
+	margin-bottom: 322px;
+	height: 57px;
+	background: none;
+	border-color: white;
+	border-width: 1px;
+}
+
+.text-button {
+	font-family: 'Anton';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 26px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.about {
+	margin-bottom: 114px;
+}
+
+.about-header {
+	font-family: 'Anton';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 50px;
+	line-height: 75px;
+	text-transform: uppercase;
+	color: #000000;
+	margin-bottom: 58px;
+}
+
+.cards {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 67px;
+}
+
+.card-header {
+	font-family: 'Anton';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 38px;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+.card-text {
+	width: 564px;
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+	text-align: justify;
+	color: #000000;
+}
+
+.photos {
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer {
+	width: 543px;
+	margin-bottom: 80px;
+}
+
+.copyright {
+	margin-right: 63px;
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 20px;
+	color: #000000;
+	text-decoration: none;
+}
+
+.made {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 20px;
+	color: #000000;
+	text-decoration: none;
+}
